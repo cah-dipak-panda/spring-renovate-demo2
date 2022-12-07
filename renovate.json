@@ -1,8 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:base"
-  ],
-  "assignees": ["krithi.d@mscripts.com"],
-  "reviewers": [ "krithi.d@mscripts.com"]
+  "extends": ["github>renovatebot/.github"],
+  "assignees": ["cah-dipak-panda", "cah-krithi-d"],
+  "reviewers": [ "krithi.d@mscripts.com", "cah-sourabh-singh"]
 }
