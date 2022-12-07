@@ -2,5 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ]
+  ],
+  "assignees": ["cah-dipak-panda", "cah-krithi-d", "cah-sourabh-singh"]
 }
