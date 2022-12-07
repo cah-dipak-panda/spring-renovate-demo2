@@ -2,5 +2,5 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>renovatebot/.github"],
   "assignees": ["cah-dipak-panda", "cah-krithi-d"],
-  "reviewers": [ "krithi.d@mscripts.com", "cah-sourabh-singh"]
+  "reviewers": ["cah-sourabh-singh"]
 }
