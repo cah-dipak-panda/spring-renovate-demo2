@@ -3,5 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "assignees": ["krithi.d@mscripts.com"]
+  "assignees": ["krithi.d@mscripts.com"],
+  "reviewers": [ "krithi.d@mscripts.com"]
 }
