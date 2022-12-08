@@ -5,7 +5,7 @@
   ],
   "timezone": "Asia/Kolkata",
   "schedule": [
-    "after 1pm on wednesday"
+    "after 12pm on thursday,before 1pm every thursday"
   ],
   "assignees": ["cah-dipak-panda", "cah-krithi-d"],
   "reviewers": ["cah-sourabh-singh"]
